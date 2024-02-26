@@ -1,0 +1,26 @@
+Linea 1 - #f54a91
+
+Línea 2 #0068c5
+
+Línea 3 #af9800
+
+Línea 4 #79c7a0
+
+Línea 5 #ffd101
+
+Línea 6 #ff1100
+
+Línea 7 #e87722
+
+Línea 8 #009a44
+ 
+Línea 9 #381101
+
+Línea 12 #b0a32a
+
+Línea A #81017b
+
+Línea B #b1b3b3
+
+Metro - #fe5000
+
